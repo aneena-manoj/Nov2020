@@ -1,4 +1,5 @@
 Test GIT Lifecycle
 second line
 hiiii
-hello
+hellobiii
+biii
